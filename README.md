@@ -1,1 +1,1 @@
-# eSports-Analysis-CS-GO-and-LoL-
+# eSports Analysis (CS-GO-and-LoL)
